@@ -1,4 +1,4 @@
-**Jira Ticket Link**:
+**Jira Ticket Link**: https://chiptechinternational.atlassian.net/browse/
 
 ---
 **I have checked that:**
