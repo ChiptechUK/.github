@@ -1,17 +1,17 @@
-I have checked that:
+**Jira Ticket Link**: https://chiptechinternational.atlassian.net/browse/
 
-[ ]  The PR title is an imperative and is associated with Jira Ticket in the format "[XYZ-XXXX] Imperative description here"
-[ ]  After completing the code and before marking this PR as ready, I have read and checked the ACs for this story, and my code meets the ACs
-[ ]  I have done a self-review of this PR (eg. checked for files accidentally or unnecessarily changed, xml comments etc.)
+---
+**I have checked that:**
 
-What am I looking for in this PR?
+- [ ]  The PR title is an imperative and is associated with Jira Ticket in the format "[XYZ-XXXX] Imperative description here"
+- [ ]  After completing the code and before marking this PR as ready, I have read and checked the ACs for this story, and my code meets the ACs
+- [ ]  I have done a self-review of this PR (eg. checked for files accidentally or unnecessarily changed, xml comments etc.)
+- [ ]  GitHub Copilot review completed (Run twice, make changes where needed.)
+- [ ]  I have linked the Jira ticket associated with this PR
 
-* Add any specific things you want reviewers to give you feedback on to this list (remove this item)
+---
+**Notable things:**
 
-Notable things:
+*Please add any notes here that might help the reviewer, and any outstanding work not covered by this PR*
 
-* Add any notable changes you think that might trip up reviewers or have changed the way the project works a little (remove this item)
 
-TODO:
-
-* Add any TODO items if this PR is still in-progress, so that reviewers don't pull you up on them (remove this item)
